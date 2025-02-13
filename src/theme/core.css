@@ -1,0 +1,16 @@
+.ios {
+    --ion-background-color: #5ee0e0;
+  }
+  .md {
+    --ion-background-color: #5ee0e0;
+  }
+  
+  ion-toober {
+    background-color: burlywood;
+    font-size: large;
+  }
+  
+  ion-item {
+    color: rgb(14, 13, 14);
+  }
+  
